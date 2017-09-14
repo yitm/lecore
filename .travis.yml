@@ -1,0 +1,4 @@
+language: javascript
+sudo: false
+script:
+    - "npm run test"
